@@ -32,6 +32,7 @@ input, textarea {
     /* -webkit-border-radius: 5px; */
     /* -moz-border-radius: 5px; */
     border: 1px solid;
+    border-radius: 8px;
 }
 
 input:hover, textarea:hover, input:focus, textarea:focus {
